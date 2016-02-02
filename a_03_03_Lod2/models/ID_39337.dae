@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Assimp</author>
+      <authoring_tool>Assimp Collada Exporter</authoring_tool>
+    </contributor>
+    <created>2016-02-02T17:37:55</created>
+    <modified>2016-02-02T17:37:55</modified>
+    <unit name="meter" meter="1" />
+    <up_axis>Y_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="m0DefaultMaterial-fx" name="m0DefaultMaterial">
+      <profile_COMMON>
+        <technique sid="standard">
+          <phong>
+            <emission>
+              <color sid="emission">0   0   0   1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0   0   0   1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.6   0.6   0.6   1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0   0   0   1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">0</float>
+            </shininess>
+            <transparency>
+              <float sid="transparency">0</float>
+            </transparency>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="m0DefaultMaterial" name="m0DefaultMaterial">
+      <instance_effect url="#m0DefaultMaterial-fx"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="meshId0" name="meshId0_name" >
+      <mesh>
+        <source id="meshId0-positions" name="meshId0-positions">
+          <float_array id="meshId0-positions-array" count="120"> 2.336 2.64 -1.17 7.363 2.211 3.029 4.673 2.211 -2.341 7.363 2.211 3.029 2.336 2.64 -1.17 3.856 2.64 1.863 3.856 2.64 1.863 2.689 2.211 5.37 7.363 2.211 3.029 0 2.212 1.35446e-16 3.856 2.64 1.863 2.336 2.64 -1.17 3.856 2.64 1.863 0 2.212 1.35446e-16 2.689 2.211 5.37 4.673 1.43345e-16 -2.341 2.336 2.64 -1.17 4.673 2.211 -2.341 2.336 7.16418e-17 -1.17 2.336 2.64 -1.17 2.336 7.16418e-17 -1.17 0 2.212 1.35446e-16 0 0 0 0 0 0 2.689 2.211 5.37 0 2.212 1.35446e-16 2.689 -3.28818e-16 5.37 2.689 -3.28818e-16 5.37 7.363 2.211 3.029 2.689 2.211 5.37 7.363 -1.85473e-16 3.029 7.363 -1.85473e-16 3.029 4.673 2.211 -2.341 7.363 2.211 3.029 4.673 1.43345e-16 -2.341 2.336 7.16418e-17 -1.17 2.689 -3.28818e-16 5.37 0 0 0 4.673 1.43345e-16 -2.341 7.363 -1.85473e-16 3.029 </float_array>
+          <technique_common>
+            <accessor count="40" offset="0" source="#meshId0-positions-array" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="meshId0-normals" name="meshId0-normals">
+          <float_array id="meshId0-normals-array" count="120"> 0.1448 0.986799 -0.0725349 0.1448 0.986799 -0.0725349 0.1448 0.986799 -0.0725349 0.144845 0.986788 -0.0725897 0.144845 0.986788 -0.0725897 0.144845 0.986788 -0.0725897 0.0725504 0.98679 0.144853 0.0725504 0.98679 0.144853 0.0725504 0.98679 0.144853 -0.144531 0.986846 0.0724322 -0.144531 0.986846 0.0724322 -0.144531 0.986846 0.0724322 -0.144607 0.986823 0.072595 -0.144607 0.986823 0.072595 -0.144607 0.986823 0.072595 -0.447979 0 -0.894044 -0.447979 0 -0.894044 -0.447979 0 -0.894044 -0.447979 -0 -0.894044 -0.447826 -0 -0.894121 -0.447826 -0 -0.894121 -0.447826 -0 -0.894121 -0.447826 5.47491e-17 -0.894121 -0.894161 -2.74166e-17 0.447746 -0.894161 -2.74166e-17 0.447746 -0.894161 -2.74166e-17 0.447746 -0.894161 0 0.447746 0.447826 -0 0.894121 0.447826 -0 0.894121 0.447826 -0 0.894121 0.447826 -0 0.894121 0.894094 0 -0.447879 0.894094 0 -0.447879 0.894094 0 -0.447879 0.894094 0 -0.447879 0 -1 -6.12323e-17 0 -1 -6.12323e-17 0 -1 -6.12323e-17 1.34901e-23 -1 -6.12323e-17 0 -1 -6.12323e-17 </float_array>
+          <technique_common>
+            <accessor count="40" offset="0" source="#meshId0-normals-array" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="meshId0-vertices">
+          <input semantic="POSITION" source="#meshId0-positions" />
+          <input semantic="NORMAL" source="#meshId0-normals" />
+        </vertices>
+        <polylist count="18" material="theresonlyone">
+          <input offset="0" semantic="VERTEX" source="#meshId0-vertices" />
+          <vcount>3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </vcount>
+          <p>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 16 15 18 19 20 21 21 20 22 23 24 25 24 23 26 27 28 29 28 27 30 31 32 33 32 31 34 35 36 37 36 35 38 36 38 39 </p>
+        </polylist>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="ID_39337.obj" name="ID_39337.obj">
+      <node id="g defaultobject" name="g defaultobject">
+        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#meshId0">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="theresonlyone" target="#m0DefaultMaterial" />
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#ID_39337.obj" />
+  </scene>
+</COLLADA>

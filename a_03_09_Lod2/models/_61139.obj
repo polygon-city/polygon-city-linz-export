@@ -1,0 +1,36 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.0)
+
+mtllib _61139.obj.mtl
+
+# 6 vertex positions
+v  0 2.288 1.401e-16
+v  1.02 2.288 3.345
+v  0.075 2.288 -0.021
+v  1.02 -2.04822e-16 3.345
+v  0.075 1.28588e-18 -0.021
+v  0 0 0
+
+# 0 UV coordinates
+
+# 7 vertex normals
+vn -0 1 0
+vn 0.962777 0 -0.270298
+vn -0.26963 0 -0.962964
+vn -0.26963 5.89645e-17 -0.962964
+vn -0.956518 -1.78599e-17 0.291674
+vn -0.956518 0 0.291674
+vn 0 -1 -6.12323e-17
+
+# Mesh 'defaultobject' with 8 faces
+g defaultobject
+usemtl DefaultMaterial
+f  1//1 2//1 3//1
+f  4//2 3//2 2//2
+f  3//2 4//2 5//2
+f  5//3 1//3 3//3
+f  1//3 5//3 6//4
+f  6//5 2//5 1//5
+f  2//5 6//5 4//6
+f  6//7 5//7 4//7
+
