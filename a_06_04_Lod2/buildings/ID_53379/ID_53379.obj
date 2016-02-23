@@ -1,0 +1,49 @@
+# {"id":"ID_53379","idOriginal":"ID_53379","origin":[14.32629484899272,48.256713304971534],"elevation":255.542}
+# Longitude: 14.32629484899272
+# Latitude: 48.256713304971534
+# Elevation: 255.542
+
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.0)
+
+mtllib ID_53379.obj.mtl
+
+# 8 vertex positions
+v  0 2.235 1.36854e-16
+v  4.099 2.235 1.412
+v  2.84 2.235 -1.312
+v  1.258 2.235 2.724
+v  2.84 8.03368e-17 -1.312
+v  0 0 0
+v  1.258 -1.66797e-16 2.724
+v  4.099 -8.64601e-17 1.412
+
+# 0 UV coordinates
+
+# 9 vertex normals
+vn -0 1 0
+vn -0.419383 0 -0.90781
+vn -0.419383 5.55873e-17 -0.90781
+vn -0.907862 -2.56729e-17 0.41927
+vn -0.907862 0 0.41927
+vn 0.419261 -0 0.907866
+vn 0.907735 0 -0.419544
+vn 0 -1 -6.12323e-17
+vn 0 -1 -6.12323e-17
+
+# Mesh 'defaultobject' with 12 faces
+g defaultobject
+usemtl DefaultMaterial
+f  1//1 2//1 3//1
+f  2//1 1//1 4//1
+f  5//2 1//2 3//2
+f  1//2 5//2 6//3
+f  6//4 4//4 1//4
+f  4//4 6//4 7//5
+f  7//6 2//6 4//6
+f  2//6 7//6 8//6
+f  8//7 3//7 2//7
+f  3//7 8//7 5//7
+f  5//8 7//8 6//8
+f  7//8 5//8 8//9
+
