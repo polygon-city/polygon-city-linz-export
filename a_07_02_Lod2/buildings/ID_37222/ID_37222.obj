@@ -1,4 +1,6 @@
-# {"id":"ID_37222","idOriginal":"ID_37222","origin":[14.33225518484931,48.235497623664074],"elevation":292.292}
+# {"id":"ID_37222","idOriginal":"ID_37222","origin":[14.33225518484931,48.235497623664074],"elevation":292.292,"wof":[{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1},{"Id":101748071,"Name":"Linz","Placetype":"locality","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85898417,"Name":"Ebelsberg","Placetype":"neighbourhood","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.33225518484931
 # Latitude: 48.235497623664074
 # Elevation: 292.292
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_37222.obj.mtl
 
 # 16 vertex positions
 v  2.433 3.892 -0.557

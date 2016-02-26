@@ -1,4 +1,6 @@
-# {"id":"ID_7611","idOriginal":"ID_7611","origin":[14.294998826745031,48.268169698871404],"elevation":277.358}
+# {"id":"ID_7611","idOriginal":"ID_7611","origin":[14.294998826745031,48.268169698871404],"elevation":277.358,"wof":[{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85898435,"Name":"Oed","Placetype":"neighbourhood","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1},{"Id":101748071,"Name":"Linz","Placetype":"locality","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.294998826745031
 # Latitude: 48.268169698871404
 # Elevation: 277.358
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_7611.obj.mtl
 
 # 31 vertex positions
 v  25.71 17.912 -0.037

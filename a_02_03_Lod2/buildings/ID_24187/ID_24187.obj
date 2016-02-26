@@ -1,4 +1,6 @@
-# {"id":"ID_24187","idOriginal":"ID_24187","origin":[14.26424096401734,48.247019472166656],"elevation":270.402}
+# {"id":"ID_24187","idOriginal":"ID_24187","origin":[14.26424096401734,48.247019472166656],"elevation":270.402,"wof":[{"Id":85898435,"Name":"Oed","Placetype":"neighbourhood","Offset":-1},{"Id":101754215,"Name":"Traun","Placetype":"locality","Offset":-1},{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.26424096401734
 # Latitude: 48.247019472166656
 # Elevation: 270.402
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_24187.obj.mtl
 
 # 20 vertex positions
 v  18.418 3.984 4.177

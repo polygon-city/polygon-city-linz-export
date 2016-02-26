@@ -1,4 +1,6 @@
-# {"id":"ID_9672","idOriginal":"ID_9672","origin":[14.338431011397896,48.32527015018483],"elevation":257.359}
+# {"id":"ID_9672","idOriginal":"ID_9672","origin":[14.338431011397896,48.32527015018483],"elevation":257.359,"wof":[{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85898427,"Name":"Katzbach","Placetype":"neighbourhood","Offset":-1},{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.338431011397896
 # Latitude: 48.32527015018483
 # Elevation: 257.359
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_9672.obj.mtl
 
 # 28 vertex positions
 v  9.731 11.068 -3.083

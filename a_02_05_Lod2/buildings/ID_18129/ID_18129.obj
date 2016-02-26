@@ -1,4 +1,6 @@
-# {"id":"ID_18129","idOriginal":"ID_18129","origin":[14.274418563872405,48.258215256552205],"elevation":267.549}
+# {"id":"ID_18129","idOriginal":"ID_18129","origin":[14.274418563872405,48.258215256552205],"elevation":267.549,"wof":[{"Id":101754219,"Name":"Langholzfeld","Placetype":"locality","Offset":-1},{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85898435,"Name":"Oed","Placetype":"neighbourhood","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.274418563872405
 # Latitude: 48.258215256552205
 # Elevation: 267.549
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_18129.obj.mtl
 
 # 51 vertex positions
 v  21.449 3.292 -0.072

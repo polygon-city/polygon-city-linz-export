@@ -1,4 +1,6 @@
-# {"id":"ID_34050","idOriginal":"ID_34050","origin":[14.302744650372247,48.35376423039892],"elevation":507.132}
+# {"id":"ID_34050","idOriginal":"ID_34050","origin":[14.302744650372247,48.35376423039892],"elevation":507.132,"wof":[{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85898433,"Name":"Maderleiten","Placetype":"neighbourhood","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.302744650372247
 # Latitude: 48.35376423039892
 # Elevation: 507.132
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_34050.obj.mtl
 
 # 8 vertex positions
 v  0 2.597 1.5902e-16

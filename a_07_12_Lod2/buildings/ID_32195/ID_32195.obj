@@ -1,4 +1,6 @@
-# {"id":"ID_32195","idOriginal":"ID_32195","origin":[14.34026458583024,48.327726652988375],"elevation":272.884}
+# {"id":"ID_32195","idOriginal":"ID_32195","origin":[14.34026458583024,48.327726652988375],"elevation":272.884,"wof":[{"Id":85898427,"Name":"Katzbach","Placetype":"neighbourhood","Offset":-1},{"Id":101758517,"Name":"Plesching","Placetype":"locality","Offset":-1},{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.34026458583024
 # Latitude: 48.327726652988375
 # Elevation: 272.884
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_32195.obj.mtl
 
 # 10 vertex positions
 v  0 3.169 1.94045e-16

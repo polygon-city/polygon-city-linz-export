@@ -1,4 +1,6 @@
-# {"id":"ID_54596","idOriginal":"ID_54596","origin":[14.382170391599375,48.23249008220288],"elevation":256.056}
+# {"id":"ID_54596","idOriginal":"ID_54596","origin":[14.382170391599375,48.23249008220288],"elevation":256.056,"wof":[{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85898437,"Name":"Pichling","Placetype":"neighbourhood","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.382170391599375
 # Latitude: 48.23249008220288
 # Elevation: 256.056
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_54596.obj.mtl
 
 # 8 vertex positions
 v  0 2.905 1.7788e-16

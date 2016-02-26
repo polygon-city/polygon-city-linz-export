@@ -1,4 +1,6 @@
-# {"id":"ID_2156","idOriginal":"ID_2156","origin":[14.29081527341553,48.35523537433993],"elevation":323.067}
+# {"id":"ID_2156","idOriginal":"ID_2156","origin":[14.29081527341553,48.35523537433993],"elevation":323.067,"wof":[{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85898423,"Name":"Gründberg","Placetype":"neighbourhood","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.29081527341553
 # Latitude: 48.35523537433993
 # Elevation: 323.067
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_2156.obj.mtl
 
 # 51 vertex positions
 v  7.538 12.584 -0.505

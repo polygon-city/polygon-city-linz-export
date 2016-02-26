@@ -1,4 +1,6 @@
-# {"id":"ID_24530","idOriginal":"ID_24530","origin":[14.299910890982673,48.285993289575174],"elevation":260.852}
+# {"id":"ID_24530","idOriginal":"ID_24530","origin":[14.299910890982673,48.285993289575174],"elevation":260.852,"wof":[{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85898459,"Name":"Wegscheid","Placetype":"neighbourhood","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":101748071,"Name":"Linz","Placetype":"locality","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.299910890982673
 # Latitude: 48.285993289575174
 # Elevation: 260.852
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_24530.obj.mtl
 
 # 38 vertex positions
 v  0.425 9.77 0.389

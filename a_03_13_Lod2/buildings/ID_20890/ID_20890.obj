@@ -1,4 +1,6 @@
-# {"id":"ID_20890","idOriginal":"ID_20890","origin":[14.283333315830191,48.32987244115291],"elevation":273.788}
+# {"id":"ID_20890","idOriginal":"ID_20890","origin":[14.283333315830191,48.32987244115291],"elevation":273.788,"wof":[{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":101748071,"Name":"Linz","Placetype":"locality","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85898425,"Name":"Harbach","Placetype":"neighbourhood","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.283333315830191
 # Latitude: 48.32987244115291
 # Elevation: 273.788
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_20890.obj.mtl
 
 # 14 vertex positions
 v  5.141 2.218 -7.222

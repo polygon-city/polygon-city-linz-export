@@ -1,4 +1,6 @@
-# {"id":"ID_41905","idOriginal":"ID_41905","origin":[14.305880362568933,48.23275433180424],"elevation":261.245}
+# {"id":"ID_41905","idOriginal":"ID_41905","origin":[14.305880362568933,48.23275433180424],"elevation":261.245,"wof":[{"Id":101831937,"Name":"Ansfelden","Placetype":"locality","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85898417,"Name":"Ebelsberg","Placetype":"neighbourhood","Offset":-1},{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.305880362568933
 # Latitude: 48.23275433180424
 # Elevation: 261.245
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_41905.obj.mtl
 
 # 19 vertex positions
 v  4.603 3.925 0.309

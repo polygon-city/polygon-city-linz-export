@@ -1,4 +1,6 @@
-# {"id":"ID_41372","idOriginal":"ID_41372","origin":[14.281248556638097,48.325761539156204],"elevation":270.055}
+# {"id":"ID_41372","idOriginal":"ID_41372","origin":[14.281248556638097,48.325761539156204],"elevation":270.055,"wof":[{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":101748071,"Name":"Linz","Placetype":"locality","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85898415,"Name":"Bachl","Placetype":"neighbourhood","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.281248556638097
 # Latitude: 48.325761539156204
 # Elevation: 270.055
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_41372.obj.mtl
 
 # 8 vertex positions
 v  0 2.873 1.75921e-16

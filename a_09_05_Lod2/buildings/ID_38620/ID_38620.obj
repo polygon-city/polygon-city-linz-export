@@ -1,4 +1,6 @@
-# {"id":"ID_38620","idOriginal":"ID_38620","origin":[14.367525469524637,48.261730709479856],"elevation":249.152}
+# {"id":"ID_38620","idOriginal":"ID_38620","origin":[14.367525469524637,48.261730709479856],"elevation":249.152,"wof":[{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85898441,"Name":"Posch","Placetype":"neighbourhood","Offset":-1},{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.367525469524637
 # Latitude: 48.261730709479856
 # Elevation: 249.152
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib ID_38620.obj.mtl
 
 # 18 vertex positions
 v  1.041 3.913 2.766

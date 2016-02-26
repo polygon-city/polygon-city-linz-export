@@ -1,4 +1,6 @@
-# {"id":"_26702","idOriginal":"_26702","origin":[14.27066944699821,48.3037111045751],"elevation":258.847}
+# {"id":"_26702","idOriginal":"_26702","origin":[14.27066944699821,48.3037111045751],"elevation":258.847,"wof":[{"Id":102049853,"Name":"Linz","Placetype":"county","Offset":-1},{"Id":85681677,"Name":"Oberösterreich","Placetype":"region","Offset":-1},{"Id":85898445,"Name":"St. Margarethen","Placetype":"neighbourhood","Offset":-1},{"Id":85632785,"Name":"Austria","Placetype":"country","Offset":-1},{"Id":101748071,"Name":"Linz","Placetype":"locality","Offset":-1}]}
+
+# Attribution: City of Linz <http://geo.data.linz.gv.at/katalog/geodata/3d_geo_daten_lod2/>
 # Longitude: 14.27066944699821
 # Latitude: 48.3037111045751
 # Elevation: 258.847
@@ -6,7 +8,6 @@
 # File produced by Open Asset Import Library (http://www.assimp.sf.net)
 # (assimp v3.1.0)
 
-mtllib _26702.obj.mtl
 
 # 51 vertex positions
 v  0 4.373 2.67769e-16
